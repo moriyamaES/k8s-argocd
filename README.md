@@ -1,5 +1,6 @@
 # k8s-argocd
 Kubernetes と ArgoCdの連携
+→ ★★上手くいった
 
 ## 参考にしたサイト
 - 以下のサイトの内容を検証
