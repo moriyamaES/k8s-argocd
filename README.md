@@ -22,7 +22,7 @@ kubeconfig: Configured
 ~~~
 # kubectl create ns argocd
 ~~~
-## NameSpaceの作成の確認
+1. NameSpaceの作成の確認
 ~~~
 # kubectl get ns
 ~~~
