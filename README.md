@@ -18,7 +18,7 @@ apiserver: Running
 kubeconfig: Configured
 ~~~
 # 手順
-## NameSpaceの作成
+1. NameSpaceの作成
 ~~~
 # kubectl create ns argocd
 ~~~
@@ -32,5 +32,5 @@ kubeconfig: Configured
 ~~~
 ## ArgoCDのデプロイの確認
 ~~~
-kubectl get svc -n argocd
+# kubectl get svc -n argocd
 ~~~
