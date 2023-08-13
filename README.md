@@ -19,6 +19,8 @@ kubeconfig: Configured
 ~~~
 # 手順
 1. NameSpaceの作成
+1. NameSpaceの作成の確認
+
 ~~~
 # kubectl create ns argocd
 ~~~
