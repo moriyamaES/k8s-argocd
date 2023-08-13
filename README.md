@@ -22,9 +22,15 @@ kubeconfig: Configured
 ~~~
 # kubectl create ns argocd
 ~~~
+## NameSpaceの作成の確認
 ~~~
-
+# kubectl get ns
 ~~~
+## ArgoCDのデプロイ
 ~~~
 # kubectl apply -n argocd -f https://raw.githubusercontent.com/argoproj/argo-cd/stable/manifests/install.yaml
+~~~
+## ArgoCDのデプロイの確認
+~~~
+kubectl get svc -n argocd
 ~~~
