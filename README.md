@@ -2,9 +2,9 @@
 Kubernetes と ArgoCdの連携
 
 # 参考にしたサイト
-- 以下のサイトの内容を検証  
+- 以下のサイトの内容を検証<br>
 https://selfnote.work/20220703/programming/kubernetes-microservices-volumes-2/
-- Udemyの講座より参考  
+- Udemyの講座より参考<br>
 https://github.com/nakamasato/kubernetes-basics/tree/master/09-cicd
 
 # 前提
